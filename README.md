@@ -27,13 +27,12 @@ For demonstration,
 
 
 ## [Authors](#author)
-- manhdung20112000 
+- Quang Nguyen Van 
 [Contact: [GitHub](https://github.com/quangnv2002) [Facebook](https://www.facebook.com/trucduong.congtu)]
-- giangTPham
-[Contact: [GitHub](https://github.com/giangTPham) [Facebook](https://www.facebook.com/hitsantheassassin)]
-- NewLuminous
-[Contact: [GitHub](https://github.com/NewLuminous) [Facebook](https://www.facebook.com/newluminous)]
-- HaiNguyen2903
-[Contact: [GitHub](https://github.com/HaiNguyen2903) [Facebook](https://www.facebook.com/profile.php?id=100005389968107)]
-- Minology
-[Contact: [GitHub](https://github.com/Minology) [Facebook](https://www.facebook.com/Min0l0gy)]
+- Phan Nguyen Dinh
+[Contact: [Facebook](https://www.facebook.com/keyine10)]
+- Vu Pham Duong
+[Contact: [Facebook](https://www.facebook.com/pd.vx.0307)]
+- Quan Le Anh
+[Contact: [Facebook](https://www.facebook.com/profile.php?id=100005394814258)]
+
