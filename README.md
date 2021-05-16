@@ -2,7 +2,7 @@
 # [license-plate-recog](#project)
 
 ## [Introduction](#introduction)
-This is our project about license plates detect and recognization
+This is our project about license plates detection and recognization
 ## [Requirement](#requirement)
 
 ##### Install Python3.8
