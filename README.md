@@ -14,7 +14,7 @@ pip install numpy pillow opencv-python matplotlib easyocr
 ```
 
 ## [Usage](#usage)
-All the final codes are stored in [`\Pokemon Final`](https://github.com/manhdung20112000/Image-Processing/tree/main/Pokemon%20Final)
+All the final codes are stored in [`\processing.py`](https://github.com/manhdung20112000/Image-Processing/tree/main/Pokemon%20Final)
 
 The [`\Pokemon Final\Solving Pokemons Final.ipynb`](https://github.com/manhdung20112000/Image-Processing/blob/main/Pokemon%20Final/Solving%20Pokemons%20Final.ipynb) notebook is our final work. 
 In short, it contains:
