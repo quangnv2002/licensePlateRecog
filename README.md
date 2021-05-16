@@ -24,19 +24,7 @@ For demonstration,
 - Install all the [requirements](#requirement)
 - Add the image to be identified to the file [licenseplateImg](https://github.com/quangnv2002/licensePlateRecog/tree/master/licenseplateImg)
 - Execute [processing.py](https://github.com/quangnv2002/licensePlateRecog/blob/master/processing.py)
-```bash
-cd 'your_folder\Image-Processing\Pokemon Final\'
-```
-- Run cmd/terminal
-```bash
-python pikachu_solver_final.py
-```
-- Back to the game interface, and hold:
-    - `Space` if it's **Static** phase
-    - `Left` if it's force to the **Left** phase
-    - `Up` if it's fall **Up** phase
-    - `Right` if it's force to the **Right** phase
-    - `Down` if it's fall **Down** phase
+
 
 ## [Authors](#author)
 - manhdung20112000 
