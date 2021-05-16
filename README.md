@@ -22,8 +22,7 @@ In short, it contains license plates recognition results at different angles and
 For demonstration, 
 - Clone this repository 
 - Install all the [requirements](#requirement)
-- Open Pikachu game 
-- Play the game 
+- Add the image to be identified to the file [licenseplateImg](https://github.com/quangnv2002/licensePlateRecog/tree/master/licenseplateImg)
 - `Control + F` to full-screen
 - Access to [`\Pokemon Final`](https://github.com/manhdung20112000/Image-Processing/tree/main/Pokemon%20Final) 
 ```bash
