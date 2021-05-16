@@ -10,7 +10,7 @@ This is our project about license plate recognization
 
 ##### Install requirements via [pip](https://pip.pypa.io/en/stable/)
 ```bash
-pip install numpy scipy matplotlib jupyter cv2 keyboard pyautogui
+pip install numpy pillow opencv-python matplotlib easyocr
 ```
 
 ## [Usage](#usage)
