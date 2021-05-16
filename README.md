@@ -16,7 +16,7 @@ pip install numpy pillow opencv-python matplotlib easyocr
 ## [Usage](#usage)
 All the final codes are stored in [`\processing.py`](https://github.com/quangnv2002/licensePlateRecog/blob/master/processing.py)
 
-The [`\ResultFile'](https://github.com/quangnv2002/licensePlateRecog/tree/master/ResultFile) notebook is our final work. 
+The [ResultFile](https://github.com/quangnv2002/licensePlateRecog/tree/master/ResultFile) notebook is our final work. 
 In short, it contains:
 - Technique to detect the board in Pikachu game
 - Technique to detect the similar Pokemon 
