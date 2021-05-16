@@ -5,7 +5,7 @@
 This is our project about license plates detection and recognization
 ## [Requirement](#requirement)
 
-##### Install Python3.8
+##### Install Python 3.8
 [![Install Python3.8](install-python.svg)](https://www.python.org/downloads/)
 
 ##### Install requirements via [pip](https://pip.pypa.io/en/stable/)
