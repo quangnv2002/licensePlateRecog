@@ -28,7 +28,7 @@ For demonstration,
 
 ## [Authors](#author)
 - manhdung20112000 
-[Contact: [GitHub](https://github.com/manhdung20112000) [Facebook](https://www.facebook.com/nmd2000)]
+[Contact: [GitHub](https://github.com/quangnv2002) [Facebook](https://www.facebook.com/trucduong.congtu)]
 - giangTPham
 [Contact: [GitHub](https://github.com/giangTPham) [Facebook](https://www.facebook.com/hitsantheassassin)]
 - NewLuminous
