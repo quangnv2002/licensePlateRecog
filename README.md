@@ -23,7 +23,7 @@ For demonstration,
 - Clone this repository 
 - Install all the [requirements](#requirement)
 - Add the image to be identified to the file [licenseplateImg](https://github.com/quangnv2002/licensePlateRecog/tree/master/licenseplateImg)
-- Excute [processing.py](https://github.com/quangnv2002/licensePlateRecog/blob/master/processing.py)
+- Execute [processing.py](https://github.com/quangnv2002/licensePlateRecog/blob/master/processing.py)
 ```bash
 cd 'your_folder\Image-Processing\Pokemon Final\'
 ```
