@@ -34,5 +34,5 @@ For demonstration,
 - Vu Pham Duong
 [Contact: [GitHub](https://github.com/pdvx) [Facebook](https://www.facebook.com/pd.vx.0307)]
 - Quan Le Anh
-[Contact: [Facebook](https://www.facebook.com/profile.php?id=100005394814258)]
+[Contact: [GitHub](https://github.com/quan2305) [Facebook](https://www.facebook.com/profile.php?id=100005394814258)]
 
