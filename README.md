@@ -32,7 +32,7 @@ For demonstration,
 - Phan Nguyen Dinh
 [Contact: [GitHub](https://github.com/ndinhphan?fbclid=IwAR19y-lOSYXViVmwTrVpV-UzLbcghhIojwB9OSV4CYrHi6pIC5y5RiaNVYk) [Facebook](https://www.facebook.com/keyine10)]
 - Vu Pham Duong
-[Contact: [Facebook](https://www.facebook.com/pd.vx.0307)]
+[Contact: [GitHub](https://github.com/pdvx) [Facebook](https://www.facebook.com/pd.vx.0307)]
 - Quan Le Anh
 [Contact: [Facebook](https://www.facebook.com/profile.php?id=100005394814258)]
 
