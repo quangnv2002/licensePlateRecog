@@ -1,5 +1,5 @@
 
-# [solve-classic-pikachu](#project)
+# [license-plate-recog](#project)
 
 ## [Introduction](#introduction)
 This is our project about license plate recognization
