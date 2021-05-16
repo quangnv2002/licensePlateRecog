@@ -17,11 +17,7 @@ pip install numpy pillow opencv-python matplotlib easyocr
 All the final codes are stored in [processing](https://github.com/quangnv2002/licensePlateRecog/blob/master/processing.py)
 
 The [ResultFile](https://github.com/quangnv2002/licensePlateRecog/tree/master/ResultFile) notebook is our final work. 
-In short, it contains:
-- Technique to detect the board in Pikachu game
-- Technique to detect the similar Pokemon 
-- Search the way to similar Pokemon and return which one is legal
-- Render the solution
+In short, it contains license plates recognition results at different angles and conditions
 
 For demonstration, 
 - Clone this repository 
