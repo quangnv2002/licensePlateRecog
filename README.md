@@ -1,5 +1,5 @@
 
-# [license-plate-recog](#project)
+# [License-plate-recog](#project)
 
 ## [Introduction](#introduction)
 This is our project about license plates detection and recognization 
